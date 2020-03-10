@@ -1,4 +1,6 @@
 # React Basics CW
+#### Check out my comments in your app-cj>scr>App.js and app-cj>src>Hulu.js for comments.
+#### Score : 2/5
 
 Create a new react app
 

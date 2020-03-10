@@ -12,6 +12,7 @@ function App() {
   }
   return (
     <div className="App">
+      {/* properties must be passed as `propertyName = {variable}` */}
          <Hulu data> </Hulu>
     </div>
   );
